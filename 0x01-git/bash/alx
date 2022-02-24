@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 The school is open!
+=======
+#!/bin/bash
+echo "ALX School"
+>>>>>>> 85c794c9e973828f00080f748d47796955644965
